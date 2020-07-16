@@ -11,3 +11,7 @@ $npm start
 ```
 
 Open url=`http://loccalhost:4000`
+
+```
+Add Circle CI
+```
