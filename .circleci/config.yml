@@ -8,9 +8,9 @@ jobs:
 
   build-and-test:
 
-    executor:
+    docker:
 
-      name: node/default
+      - image: circleci/node:lates
 
     steps:
 
