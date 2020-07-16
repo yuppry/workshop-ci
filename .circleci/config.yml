@@ -7,7 +7,7 @@ jobs:
 
     docker:
 
-      - image: circleci/node:latest
+      - image: docker:latest
 
     steps:
 
