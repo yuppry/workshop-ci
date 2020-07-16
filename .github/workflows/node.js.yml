@@ -59,7 +59,7 @@ jobs:
 
         password: ${{ secrets.DOCKER_PASSWORD }}
 
-        repository: somkiat/demo_web
+        repository: yuppry/demo_web
 
         tag_with_ref: true
 
