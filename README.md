@@ -10,4 +10,4 @@ $npm install
 $npm start
 ```
 
-Open url=`http://loccalhost:4000`
+Open url=http://loccalhost:4000
